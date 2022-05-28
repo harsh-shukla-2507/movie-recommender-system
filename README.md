@@ -1,4 +1,4 @@
-# movie-reommendor-system
+# movie-recommendor-system
 Content based movie recommender system
 
 
